@@ -1,11 +1,17 @@
-TEP 2: TECNOLOGIIAS DE PONTA EM ENERGIA SOLARES APLICAVEIS  CARREGADRES PORTATEIS 
+TEP 2: Tecnologias de Ponta em Energia Solar Aplicáveis a Carregadores Portáteis
 
-PARTICIPANTES: 
+# Participantes
 
-- ARTHUR FELIPE MOURAO DE LIVEIRA 
-- CRISTIAN COSTA CRUZ
-- GERLIANE GOMES DE ARAUJO
-- LARISSA LUISE LIMA NUNES 
+- Arthur Felipe Mourão de Oliveira 
+- Cristian Costa Cruz  
+- Gerliane Gomes de Araújo
+- Larissa Luise Lima Nunes
 
-LINK DE SIMULAÇÃO NO TINKER CAD:
-https://www.tinkercad.com/things/5HNn0Q0F4Vn-copy-of-carregador-solar/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=sUB188KVNqGTByfMgSdobwY8EuWb5oBafjh_EbEAGb4
+# Resumo
+
+Este projeto tem como objetivo estudar, planejar e aplicar Tecnologias de ponta em energia solar para desenvolver carregadores portáteis mais sustentáveis e eficientes. Foram exploradas células fotovoltaicas em conjunto com o desenvolvimento do circuito eletrico para otimizar captação e armazenamento de energia solar. O protótipo foi testado e validou a viabilidade técnica para o uso, contribuindo para maior autonomia energética com redução de impactos ambientais.
+
+## Link de Simulação
+
+Acesse o circuito simulado no *Tinkercad*:  
+[Simulação Tinkercad - Carregador Solar](https://www.tinkercad.com/things/5HNn0Q0F4Vn-copy-of-carregador-solar/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=sUB188KVNqGTByfMgSdobwY8EuWb5oBafjh_EbEAGb4)
